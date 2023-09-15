@@ -33,3 +33,5 @@ None
 GitHub: [briantaelee](https://github.com/briantaelee)
 Email: briantae.lee95847@gmail.com
   
+
+![Alt text](<Untitled_ Sep 14, 2023 8_32 PM.gif>)
