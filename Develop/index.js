@@ -73,7 +73,7 @@ function writeToFile(response) {
 
   const readmeContent = generateMarkdown(response);
 
-  fs.writeFile(`${response.titleInput.toLowerCase()}.README.md`, readmeContent, (err) => {
+  fs.writeFile(`${response.titleInput}.md`, readmeContent, (err) => {
     if (err) {
       console.error('An error occurred:', err);
     } else {

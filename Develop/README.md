@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# README
 
 ## Description
 A ReadMe Generator that quickly creates a professional ReadMe for the user
